@@ -1,20 +1,31 @@
+
+
+
+
+
+
 # Contributing Guidelines
 
 *Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!* :octocat:
 
 ### Contents
 
-- [Code of Conduct](#book-code-of-conduct)
-- [Asking Questions](#bulb-asking-questions)
-- [Opening an Issue](#inbox_tray-opening-an-issue)
-- [Feature Requests](#love_letter-feature-requests)
-- [Triaging Issues](#mag-triaging-issues)
-- [Submitting Pull Requests](#repeat-submitting-pull-requests)
-- [Writing Commit Messages](#memo-writing-commit-messages)
-- [Code Review](#white_check_mark-code-review)
-- [Coding Style](#nail_care-coding-style)
-- [Certificate of Origin](#medal_sports-certificate-of-origin)
-- [Credits](#pray-credits)
+- [Contributing Guidelines](#contributing-guidelines)
+    - [Contents](#contents)
+  - [:book: Code of Conduct](#book-code-of-conduct)
+  - [:bulb: Asking Questions](#bulb-asking-questions)
+  - [:inbox\_tray: Opening an Issue](#inbox_tray-opening-an-issue)
+    - [:lock: Reporting Security Issues](#lock-reporting-security-issues)
+    - [:beetle: Bug Reports and Other Issues](#beetle-bug-reports-and-other-issues)
+  - [:love\_letter: Feature Requests](#love_letter-feature-requests)
+  - [:mag: Triaging Issues](#mag-triaging-issues)
+  - [:repeat: Submitting Pull Requests](#repeat-submitting-pull-requests)
+  - [:memo: Writing Commit Messages](#memo-writing-commit-messages)
+  - [:white\_check\_mark: Code Review](#white_check_mark-code-review)
+  - [:nail\_care: Coding Style](#nail_care-coding-style)
+  - [:medal\_sports: Certificate of Origin](#medal_sports-certificate-of-origin)
+  - [No Brown M\&M's](#no-brown-mms)
+  - [:pray: Credits](#pray-credits)
 
 > **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
 
